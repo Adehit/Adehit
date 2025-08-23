@@ -2,8 +2,6 @@
 
 HERE IS ADEHIT'S GITHUB!
 
-- 🔭 I’m currently working on Puyuan Baike (an encyclopedia of a senior high school).
-
 - 🌱 I’m currently learning frontend technologies, including some frameworks like Vue.
 <!--
 **Adehit/Adehit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
