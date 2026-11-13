@@ -2,7 +2,7 @@
 
 HERE IS ADEHIT'S GITHUB!
 
-- 🌱 I’m currently learning frontend technologies, including some frameworks like Vue.
+- 🌱 I’m currently learning cybersecurity and participating in some ctf competitions.
 <!--
 **Adehit/Adehit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
